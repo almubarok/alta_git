@@ -1,0 +1,4 @@
+bikin fitur A:
+- test login
+- test register
+- dll.
