@@ -1,4 +1,4 @@
 ini file test
 
 
-edit test txt
+edit test txt, udah di fix
